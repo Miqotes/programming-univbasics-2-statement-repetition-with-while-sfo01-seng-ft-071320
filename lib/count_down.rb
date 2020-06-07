@@ -6,4 +6,5 @@ new_year_exit = 1
 while number_reel >= 1 do
   puts "#{number_reel}"
   number_reel -= 1
+  puts "Happy New Year!"
 end
